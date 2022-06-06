@@ -1,0 +1,28 @@
+.content-holder
+{
+    background-color: gainsboro;
+    margin: auto;
+    width: 50%;
+    border: 3px solid ghostwhite;
+    padding:0px;
+   
+    text-align: center;
+}
+#save
+{
+    
+    width:20%;
+   
+}
+#Delete
+{
+    
+    width:20%;
+}
+.content-holder :hover
+{
+    cursor: pointer;
+    background:rgb(78, 140, 78);
+}
+
+  
